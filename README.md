@@ -16,6 +16,7 @@ Leaf := Int
 - Implement sum through a visitor pattern
 - Implement sum with a dedicated service using 'instance of' constructs
 
+
 ## Data-oriented approach
 
 - Use records, sealed interfaces, Record Pattern & switch expressions
